@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LilianaSP
 - 👀 I’m interested in programming, software development, video games development and 3D design
-- 🌱 I’m currently learning computer technology engineering
+- 🌱 I’m currently learning software engineering
 - 💞️ I’m looking to collaborate on diverse innovative projects, focused on technological development combined with programming and design
 - 📫 How to reach me Mobile: +52 3331270337
 - I speak 2 languages, English and German, both certified at C1. I am Mexican and my native language is Spanish.
