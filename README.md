@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LilianaSP
-- 👀 I’m interested in programming, software development, video games development and 3D design
+- 👀 I’m interested in programming, software development, video-games development, 3D design, AI, and cyversecurity
 - 🌱 I’m currently learning software engineering
 - 💞️ I’m looking to collaborate on diverse innovative projects, focused on technological development combined with programming and design
 - 📫 How to reach me Mobile: +52 3331270337
