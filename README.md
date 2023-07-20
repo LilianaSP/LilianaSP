@@ -45,7 +45,7 @@
     <br>
     <img src="Bash.png" alt="Bash" width="100" height="30" />
     <br>
-    <img src="Java-logo.jpg" alt="Java" width="100" height="30" />
+    <img src="Java-logo.jpg" alt="Java" width="100" height="40" />
 </p>
 
 <br>   
