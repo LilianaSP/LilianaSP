@@ -44,7 +44,7 @@
     <img src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" width="100" height="30" />
     <br>
     <img src="Bash.png" alt="Bash" width="100" height="30" />
-    <img src="https://1000marcas.net/wp-content/uploads/2020/11/Java-logo.jpg" alt="Java" width="100" height="30" />
+    <img src="[https://1000marcas.net/wp-content/uploads/2020/11/Java-logo.jpg](https://www.vectorlogo.zone/util/preview.html?image=/logos/java/java-ar21.svg)" alt="Java" width="100" height="30" />
 </p>
 
 <br>   
