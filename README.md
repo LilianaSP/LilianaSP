@@ -45,9 +45,9 @@
     <br>
     <img src="Bash.png" alt="Bash" width="100" height="30" />
     <br>
-    <img src="Java-logo.jpg" alt="Java" width="100" height="30" />
+    <img src="Java-logo.jpg" alt="Java" width="100" height="40" />
     <br>
-    <img src="https://sumatosoft.com/wp-content/uploads/2023/03/ruby-lang-ar21.png" alt="Ruby" width="100" height="30" />
+    <img src="https://sumatosoft.com/wp-content/uploads/2023/03/ruby-lang-ar21.png" alt="Ruby" width="100" height="40" />
 </p>
 
 <br>   
