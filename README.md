@@ -47,7 +47,7 @@
     <br>
     <img src="Java-logo.jpg" alt="Java" width="100" height="30" />
     <br>
-    <img src="ruby" alt="Ruby" width="100" height="30" />
+    <img src="Ruby.png" alt="Ruby" width="100" height="30" />
 </p>
 
 <br>   
@@ -57,7 +57,8 @@
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-   <img src="React.png" alt="Bash" width="110" height="30" />
+   <img src="React.png" alt="React" width="110" height="30" />
+   <img src="Kotlin.png" alt="Kotlin" width="110" height="30" />
 
 <br>
 
@@ -75,6 +76,8 @@
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
     <img src="unity.png" alt="Unity" width="90" height="30" />
+    <img src="AndroidStudio.png" alt="AndroidStudio" width="90" height="30" />
+    <img src="Rails.png" alt="Rails" width="90" height="30" />
 
 <br>
 
